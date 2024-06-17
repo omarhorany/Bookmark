@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(73, 19, 19);
+}
+
+.btn-submit {
+  background-color: blanchedalmond;
+}
+
+i {
+  color: blanchedalmond;
+}
+
+.dashed-line {
+  border-top: 2px dashed blanchedalmond;
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
